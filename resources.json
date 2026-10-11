@@ -1,0 +1,4939 @@
+{
+  "meta": {
+    "title": "UI Resource Library",
+    "description_zh": "从 Designeer 与 UINice 精选的 UI/设计工程资源库，供 Agent 按需选用组件、动效、设计系统、图标与灵感。",
+    "description_en": "Curated UI / design-engineering resource library from Designeer and UINice for agents building interfaces.",
+    "sources": [
+      {
+        "name": "Designeer",
+        "url": "https://designeer.xyz/",
+        "entries": 422
+      },
+      {
+        "name": "UINice",
+        "url": "https://uinice.com/",
+        "entries": 169
+      }
+    ],
+    "generated": "2026-10-11",
+    "unique_count": 547,
+    "category_counts": {
+      "Design Galleries / Inspiration": 78,
+      "Components": 165,
+      "Motion": 51,
+      "Design Systems": 25,
+      "Templates": 18,
+      "Icons": 40,
+      "Interface / Tokens / Type / Color": 23,
+      "AI Design Tools / Agents & MCP": 35,
+      "3D / Shaders / Visuals": 13,
+      "Development / Deploy": 29,
+      "Utilities / Desktop / Capture": 61,
+      "Reading": 33
+    },
+    "attribution": "Names and blurbs summarized from public aggregator pages; destination URLs point to original projects. Not affiliated with Designeer or UINice."
+  },
+  "categories": {
+    "inspiration": {
+      "label": "Design Galleries / Inspiration",
+      "count": 78,
+      "items": [
+        {
+          "name": "60fps",
+          "url": "https://60fps.design/",
+          "note": "Recordings of interfaces that move well.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "A1",
+          "url": "https://www.a1.gallery/",
+          "note": "Website design inspiration gallery.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Appinspo",
+          "url": "https://www.appinspo.com/",
+          "note": "Curated mobile application design gallery.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Are.na",
+          "url": "https://www.are.na/",
+          "note": "Collaborative research and visual bookmarking platform.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Awwwards",
+          "url": "https://www.awwwards.com/",
+          "note": "Awards celebrating exceptional digital web craft.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Backgrounds Supply",
+          "url": "https://backgrounds.supply/",
+          "note": "Handcrafted website backgrounds ready to use.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "before.click",
+          "url": "https://before.click/",
+          "note": "Showcase of high-converting app screenshot concepts.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Behance",
+          "url": "https://www.behance.net/",
+          "note": "Adobe showcase for creative portfolios.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Best SaaS Web Designs",
+          "url": "https://bestsaaswebdesigns.com/",
+          "note": "Curated inspiration gallery of SaaS website design.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Best Website Gallery",
+          "url": "https://bestwebsite.gallery/",
+          "note": "Curated archive of exceptional websites.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "bestdesignsonx.com",
+          "url": "https://bestdesignsonx.com/",
+          "note": "Curated design-forward creators and posts on X.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Betwn Studios",
+          "url": "https://betwnstudios.com/",
+          "note": "Studio crafting modern SaaS web experiences.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Browse.cool",
+          "url": "https://browse.cool/",
+          "note": "Websites chosen for exceptional tactile feel.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Collect UI",
+          "url": "https://collectui.com/",
+          "note": "Daily UI inspiration tagged by component.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Cosmos",
+          "url": "https://www.cosmos.so/",
+          "note": "Visual moodboarding and creative inspiration engine.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "cta.gallery",
+          "url": "https://cta.gallery/",
+          "note": "Curated call-to-action button and banner designs.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Curated Design",
+          "url": "https://www.curated.design/",
+          "note": "Web design sorted by aesthetic style.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Curated Domains",
+          "url": "https://curated.domains/",
+          "note": "Brands using creative top-level domain names.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Curations",
+          "url": "https://curations.supply/",
+          "note": "Library of curated digital design assets.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Dark Mode Design",
+          "url": "https://www.darkmodedesign.com/",
+          "note": "Showcase celebrating dark-mode websites.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "desengs.com",
+          "url": "https://desengs.com/",
+          "note": "Directory of design engineering portfolios and lore.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Design Bookmark",
+          "url": "https://designbookmark.com/",
+          "note": "Directory of design resources and links.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "designeng.tools",
+          "url": "https://designeng.tools/",
+          "note": "Curated design engineering tools, resources, and inspiration.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "designengineer.tools",
+          "url": "https://designengineer.tools/",
+          "note": "Essential tools tailored for design engineers.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Designspiration",
+          "url": "https://www.designspiration.com/",
+          "note": "Creative search platform for visual art.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Detail Design",
+          "url": "https://detail.design/",
+          "note": "Archive of thoughtful software micro-interactions.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Details",
+          "url": "https://www.details.so/",
+          "note": "Micro-interaction analysis of top digital products.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Dribbble",
+          "url": "https://dribbble.com/",
+          "note": "Global community sharing design concepts.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Early",
+          "url": "https://www.early.tools/",
+          "note": "Discovery platform for early-stage software products.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Everywhere Tools",
+          "url": "https://everywhere.tools/",
+          "note": "Open-source creative tools for design craft.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Flowbase",
+          "url": "https://www.flowbase.co/",
+          "note": "Premium UI components and interaction patterns.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Folios Gallery",
+          "url": "https://folios.gallery/",
+          "note": "Selective directory of outstanding designer portfolios.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "footer.design",
+          "url": "https://footer.design/",
+          "note": "Curated gallery of creative website footers.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Great Apps",
+          "url": "https://greatapps.fyi/",
+          "note": "Weekly gallery highlighting exceptional iOS apps.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "GreatStuff",
+          "url": "https://greatstuff.fyi/",
+          "note": "Carefully vetted archive of creative tools.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Hover States",
+          "url": "https://hoverstat.es/",
+          "note": "Showcase of innovative interactive web design.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Imageory",
+          "url": "https://www.imageory.in/",
+          "note": "Visual gallery pairing images with prompts.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Inspiration Grid",
+          "url": "https://theinspirationgrid.com/",
+          "note": "Online magazine celebrating creative visual design.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "inspora.design",
+          "url": "https://www.inspora.design/",
+          "note": "Archive of contemporary visual web design.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Insposite",
+          "url": "https://www.insposite.com/",
+          "note": "Directory of design references and tools.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "isthereanytool",
+          "url": "https://isthereanytool.app/",
+          "note": "Directory of lesser-known design, craft, and AI tools.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Jessy In's Gallery",
+          "url": "https://gallery.jessyin.world/",
+          "note": "Collaborative moodboard of unique visual finds.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Land-book",
+          "url": "https://land-book.com/",
+          "note": "Landing pages organized by industry.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Landdding",
+          "url": "https://landdding.com/",
+          "note": "Daily catalogue of creative landing pages.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Landing Love",
+          "url": "https://landing.love/",
+          "note": "Delightful landing pages organized by animation.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Landingfolio",
+          "url": "https://www.landingfolio.com/",
+          "note": "Extensive library of landing page designs.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Lapa Ninja",
+          "url": "https://www.lapa.ninja/",
+          "note": "Curated gallery of responsive landing pages.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Layers",
+          "url": "https://layers.to/",
+          "note": "Platform for sharing design work publicly.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Loader Buttons",
+          "url": "https://loader-buttons.appllama.io/",
+          "note": "Gallery of 25 loading button animations.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "loadmo.re",
+          "url": "https://loadmo.re/",
+          "note": "Gallery of experimental mobile website designs.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Minimal Gallery",
+          "url": "https://minimal.gallery/",
+          "note": "Showcase of minimal and restrained websites.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Mobbin",
+          "url": "https://mobbin.com/",
+          "note": "Real mobile and web product flows.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Motionimo",
+          "url": "https://motionimo.xyz/",
+          "note": "Extensive library of motion design clips.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "navbar.design",
+          "url": "https://navbar.design/",
+          "note": "Curated gallery of navigation bar patterns.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "navbar.gallery",
+          "url": "https://navbar.gallery/",
+          "note": "Focused collection of modern navigation bars.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "One Page Love",
+          "url": "https://onepagelove.com/",
+          "note": "Showcase of single-page website designs.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "OpenAlternative",
+          "url": "https://openalternative.co/",
+          "note": "Open-source alternatives to popular SaaS tools.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Pinterest",
+          "url": "https://www.pinterest.com/",
+          "note": "Visual discovery engine for creative ideas.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "posts.design",
+          "url": "https://posts.design/",
+          "note": "Curated social media graphic design archive.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Pttrns",
+          "url": "https://pttrns.com/",
+          "note": "Directory of mobile user interface patterns.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Rebrand Gallery",
+          "url": "https://rebrand.gallery/",
+          "note": "Brand redesigns compared before and after.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Recent Design",
+          "url": "https://recent.design/",
+          "note": "Weekly selection of award-worthy websites.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "SaaS Landing Page",
+          "url": "https://saaslandingpage.com/",
+          "note": "Showcase of top SaaS landing pages.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "SaaSFrame",
+          "url": "https://www.saasframe.io/",
+          "note": "Hundreds of SaaS marketing page screenshots.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Saaspo",
+          "url": "https://www.saaspo.com/",
+          "note": "Curated SaaS landing page designs.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Screenlane",
+          "url": "https://screenlane.com/",
+          "note": "Searchable gallery of interface screens.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Scrnshts",
+          "url": "https://scrnshts.club/",
+          "note": "Curated App Store screenshot designs.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Sections.wtf",
+          "url": "https://sections.wtf/",
+          "note": "Real-world website section and hero gallery.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "SEESAW",
+          "url": "https://www.seesaw.website/",
+          "note": "Design inspiration organized by page section.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "SiteInspire",
+          "url": "https://www.siteinspire.com/",
+          "note": "Showcase of fine web design craft.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Sombra",
+          "url": "https://sombra.design/",
+          "note": "Showcase of dark-mode website interfaces.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Supahero",
+          "url": "https://supahero.io/",
+          "note": "Curated collection of website hero sections.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Swiped",
+          "url": "https://swiped.design/",
+          "note": "Standout design posts from social platforms.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "UX Archive",
+          "url": "https://uxarchive.com/",
+          "note": "Historical archive of mobile onboarding flows.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Venust Backgrounds",
+          "url": "https://backgrounds.venust.ai/",
+          "note": "Free AI-generated backgrounds with original prompts.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Wall of Portfolios",
+          "url": "https://www.wallofportfolios.in/",
+          "note": "Design engineering and product portfolio showcases.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "What Ships",
+          "url": "https://whatships.com/",
+          "note": "Standout product launch demo videos on X.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "wwwtf.site",
+          "url": "https://wwwtf.site/",
+          "note": "Quirky and experimental interactive web corners.",
+          "sources": [
+            "Designeer"
+          ]
+        }
+      ]
+    },
+    "components": {
+      "label": "Components",
+      "count": 165,
+      "items": [
+        {
+          "name": "21st.dev",
+          "url": "https://21st.dev/",
+          "note": "A community marketplace of 10,000+ shadcn components, templates and themes, each one command away.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/21st-dev"
+        },
+        {
+          "name": "23rd",
+          "url": "https://23rd.dev/",
+          "note": "shadcn components for React and Svelte.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "8bitcn",
+          "url": "https://8bitcn.com/",
+          "note": "Retro 8-bit components for shadcn projects.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Aceternity UI",
+          "url": "https://ui.aceternity.com/",
+          "note": "Trendy animated components and hero sections.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "affectUI",
+          "url": "https://www.affectui.com",
+          "note": "Polished React components, screens and illustrations — each a single file you copy and adapt.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/affectui"
+        },
+        {
+          "name": "AI Elements",
+          "url": "https://elements.ai-sdk.dev",
+          "note": "Vercel's registry of AI interface components — conversations, reasoning, tool calls, code blocks and model pickers.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/ai-elements"
+        },
+        {
+          "name": "AICSS",
+          "url": "https://www.aicss.dev",
+          "note": "UI components for AI agents — thinking states, tool calls and streaming text, for React, Vue and Svelte.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/aicss"
+        },
+        {
+          "name": "Amacro",
+          "url": "https://amacro.vercel.app/",
+          "note": "Drop-in page reveal animations for React.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Amicro",
+          "url": "https://amicro.vercel.app/",
+          "note": "Micro-interactions, loaders and monochrome animated charts for the last half-second of polish.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/amicro"
+        },
+        {
+          "name": "Animate UI",
+          "url": "https://animate-ui.com/",
+          "note": "Fully animated, shadcn-style components with smooth, restrained motion at the primitive level.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/animate-ui"
+        },
+        {
+          "name": "Animated shadcn/ui",
+          "url": "https://shadcn-animated.vercel.app/",
+          "note": "Motion-powered variants of shadcn/ui components.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Annnimate",
+          "url": "https://annnimate.com/",
+          "note": "GSAP motion components ready for production.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Appica UI",
+          "url": "https://appica.dev/ui",
+          "note": "Refined components for e-commerce — product cards, media players, revenue charts and transaction lists.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/appica-ui"
+        },
+        {
+          "name": "assistant-ui",
+          "url": "https://www.assistant-ui.com",
+          "note": "A React library for AI chat interfaces — ChatGPT-style threads, branching, attachments and tool calls, with any model.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/assistant-ui"
+        },
+        {
+          "name": "Audio UI",
+          "url": "https://audio-ui.xyz",
+          "note": "Components for audio interfaces — players, knobs, faders, channel strips and XY pads, like a mixing desk built in shadcn.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/audio-ui"
+        },
+        {
+          "name": "Base CN",
+          "url": "https://basecn.dev/",
+          "note": "Base UI primitives adapted for shadcn.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Base UI",
+          "url": "https://base-ui.com/",
+          "note": "Unstyled component primitives from Radix and MUI.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "bazza/ui",
+          "url": "https://bazza-ui.com",
+          "note": "Hand-crafted React components, starting with a Linear-style data table filter for client and server data.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/bazza-ui"
+        },
+        {
+          "name": "Bearnie",
+          "url": "https://bearnie.dev/",
+          "note": "Astro and Tailwind component collection.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Beautiful UI",
+          "url": "https://beautifului.dev/",
+          "note": "Polished copy-paste components for web applications.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Bencho",
+          "url": "https://bencho.dev/",
+          "note": "Interactive UI blocks with adjustable physics.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "beUI",
+          "url": "https://beui.dev/",
+          "note": "Motion components such as a dynamic island, bloom menu, card folder, AI message bubbles and finance charts.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/beui"
+        },
+        {
+          "name": "Billing SDK",
+          "url": "https://billingsdk.com",
+          "note": "Billing UI — pricing tables, subscription management, usage meters, invoices and cancel flows — installed the shadcn way.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/billing-sdk"
+        },
+        {
+          "name": "Bklit UI",
+          "url": "https://bklit.com",
+          "note": "A shadcn chart registry on visx — area, candlestick, funnel, gauge and choropleth charts with shared motion and themes.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/bklit-ui"
+        },
+        {
+          "name": "BlockNote",
+          "url": "https://www.blocknotejs.org",
+          "note": "A Notion-style block editor for React — slash menu, drag handles and collaboration out of the box.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/blocknote"
+        },
+        {
+          "name": "blocks.so",
+          "url": "https://blocks.so/",
+          "note": "Free, open-source shadcn app blocks — 60+ logins, sidebars, tables, dialogs and file uploads.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/blocks-so"
+        },
+        {
+          "name": "Butter Nav",
+          "url": "https://butter-nav.vercel.app/",
+          "note": "Mega-menu featuring fluid layout morphing transitions.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "c15t",
+          "url": "https://c15t.com",
+          "note": "Developer-first cookie consent banners and preference dialogs, fully styleable, with a compliance backend.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/c15t"
+        },
+        {
+          "name": "Canvas UI",
+          "url": "https://canvasui.dev/",
+          "note": "Creative WebGL and WebGPU canvas effects as components, from the author of React Bits.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/canvas-ui"
+        },
+        {
+          "name": "Colorion Text Effects",
+          "url": "https://text-effects.colorion.co/",
+          "note": "Animated text effects ready to copy.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Component Gallery",
+          "url": "https://component.gallery/",
+          "note": "Repository comparing design system components.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Componentry",
+          "url": "https://componentry.dev/",
+          "note": "Customizable React UI primitives and components.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Cosmic UI",
+          "url": "https://cosmic-ui.com",
+          "note": "Sci-fi components with angled frames, neon outlines and starfield backgrounds, for React and Vue.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/cosmic-ui"
+        },
+        {
+          "name": "coss ui",
+          "url": "https://coss.com/ui",
+          "note": "Cal.com's modern component library on Base UI, plus hundreds of ready-made component compositions.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/coss-ui"
+        },
+        {
+          "name": "cuelume",
+          "url": "https://cuelume.dev/",
+          "note": "Micro interface sounds generated with Web Audio.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Cult UI",
+          "url": "https://www.cult-ui.com/",
+          "note": "154 free animated components with an Apple feel — dynamic island, Mac screen, folding cards — plus AI blocks.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/cult-ui"
+        },
+        {
+          "name": "daisyUI",
+          "url": "https://daisyui.com/",
+          "note": "A Tailwind plugin that adds semantic component classes and dozens of ready-made themes.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/daisyui"
+        },
+        {
+          "name": "DayFlow",
+          "url": "https://calendar.dayflow.studio",
+          "note": "A lightweight calendar with Google Calendar-style week and month views, for React, Vue, Angular and Svelte.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/dayflow"
+        },
+        {
+          "name": "devl",
+          "url": "https://www.devl.dev/",
+          "note": "Minimalist experimental UI components for web.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Dice UI",
+          "url": "https://diceui.com",
+          "note": "The complex components shadcn lacks — data grid, kanban, cropper, angle slider, color picker and compare slider.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/dice-ui"
+        },
+        {
+          "name": "Dither Kit",
+          "url": "https://www.tripwire.sh/dither-kit",
+          "note": "Dithered chart components with retro aesthetic.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Dot Matrix",
+          "url": "https://dotmatrix.zzzzshawn.cloud/",
+          "note": "Over fifty dot-matrix loaders for shadcn.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Easy UI",
+          "url": "https://easyui.pro/",
+          "note": "Copy-paste component library for rapid building.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Editor.js",
+          "url": "https://editorjs.io",
+          "note": "A clean, block-style editor that outputs tidy JSON instead of HTML.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/editorjs"
+        },
+        {
+          "name": "editorcn",
+          "url": "https://editorcn.vercel.app/",
+          "note": "Rich text editor components for React, built on Tiptap.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "editorcn",
+          "url": "https://www.rtecn.space",
+          "note": "A Tiptap rich-text editor for shadcn, in a toolbar style and a Notion-style block style.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/editorcn"
+        },
+        {
+          "name": "Eldora UI",
+          "url": "https://eldoraui.site/",
+          "note": "150+ open-source animated components and templates in the vein of Magic UI.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/eldora-ui"
+        },
+        {
+          "name": "Elements",
+          "url": "https://www.tryelements.dev",
+          "note": "shadcn blocks with the logic wired in — Clerk sign-in, Polar pricing, AI chat, brand logos and GitHub cards.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/tryelements"
+        },
+        {
+          "name": "ElevenLabs UI",
+          "url": "https://ui.elevenlabs.io",
+          "note": "ElevenLabs' open components for voice and agent apps — orbs, waveforms and live transcripts.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/elevenlabs-ui"
+        },
+        {
+          "name": "emailcn",
+          "url": "https://emailcn.run/",
+          "note": "Responsive email components for React Email, MJML, and JSX Email.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "EmbedPDF",
+          "url": "https://www.embedpdf.com",
+          "note": "An open-source PDF viewer running PDFium in WebAssembly — annotations, search, thumbnails and redaction, or go headless.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/embedpdf"
+        },
+        {
+          "name": "Evil Buttons",
+          "url": "https://www.evilbuttons.com/",
+          "note": "Interactive and tactile button components.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Evil Charts",
+          "url": "https://evilcharts.com/",
+          "note": "Animated shadcn charts on Recharts and ECharts, with gradients, glow and interactions already tuned.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/evilcharts"
+        },
+        {
+          "name": "Extend UI",
+          "url": "https://www.extend.ai/ui",
+          "note": "Components for document apps — PDF, DOCX and XLSX viewers with citation boxes.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/extend-ui"
+        },
+        {
+          "name": "Fancy Components",
+          "url": "https://www.fancycomponents.dev/",
+          "note": "Playful text effects and micro-interactions for React — fun without being loud.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/fancy-components"
+        },
+        {
+          "name": "Float UI",
+          "url": "https://floatui.com/",
+          "note": "Tailwind components crafted for marketing websites.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Flowbite",
+          "url": "https://flowbite.com/",
+          "note": "Extensive component library for Tailwind CSS.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Fluid Functionalism",
+          "url": "https://www.fluidfunctionalism.com/",
+          "note": "Components designed with purposeful physical animation.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "FlyonUI",
+          "url": "https://flyonui.com/",
+          "note": "Semantic Tailwind CSS components ready for v4.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "ForgeUI",
+          "url": "https://forgeui.in/",
+          "note": "Animated React and Tailwind components and templates.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Frameblox",
+          "url": "https://frameblox.com/",
+          "note": "Modular Framer sections and templates.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "framecn",
+          "url": "https://framecn.dev/",
+          "note": "Video rendering components for React, built on Editframe.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Frimousse",
+          "url": "https://frimousse.liveblocks.io",
+          "note": "A small, unstyled, composable emoji picker from Liveblocks, also installable as a shadcn component.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/frimousse"
+        },
+        {
+          "name": "Gauge UI",
+          "url": "https://www.gauge-ui.dev",
+          "note": "Composable SVG gauges for speedometers, progress rings, temperature and daylight readouts.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/gauge-ui"
+        },
+        {
+          "name": "GetLayers",
+          "url": "https://getlayers.ai/",
+          "note": "AI prompts for cinematic page sections.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Gradient Spin",
+          "url": "https://gradient-spin.vercel.app/",
+          "note": "Spinning gradient loading indicator for React.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Great UI",
+          "url": "https://www.great-ui.com/",
+          "note": "Copy-paste React and Tailwind CSS components.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Headless UI",
+          "url": "https://headlessui.com/",
+          "note": "Unstyled accessible components from Tailwind Labs.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "HeroUI",
+          "url": "https://www.heroui.com/",
+          "note": "Polished React components on Tailwind and React Aria, with soft surfaces and a live theme builder.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/heroui"
+        },
+        {
+          "name": "Hexter UI",
+          "url": "https://hexter-ui.com/",
+          "note": "Clean component collection for shadcn projects.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "HyperUI",
+          "url": "https://www.hyperui.dev/",
+          "note": "Free open-source Tailwind CSS UI components.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "interior.dev",
+          "url": "https://www.interior.dev/",
+          "note": "Carefully argued micro-interactions for the half-second after a click.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/interior-dev"
+        },
+        {
+          "name": "Kibo UI",
+          "url": "https://www.kibo-ui.com/",
+          "note": "A high-quality shadcn/ui registry known for complex components — Gantt charts, kanban boards, calendars.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/kibo-ui"
+        },
+        {
+          "name": "Kokonut UI",
+          "url": "https://kokonutui.com/",
+          "note": "100+ free components — cards, inputs, AI prompt boxes, buttons and text effects — with a polished marketing-site look.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/kokonut-ui"
+        },
+        {
+          "name": "Libraries.dev",
+          "url": "https://libraries.dev/",
+          "note": "Single-effect motion packages from the maker of Transitions.dev — border beams, thinking orbs, liquid metal and gooey blobs.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/libraries-dev"
+        },
+        {
+          "name": "Lifeline",
+          "url": "https://lifeline-evil-rabbit.vercel.app",
+          "note": "A black-and-white timeline from Vercel designer Evil Rabbit that lays out a person's or company's story year by year.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/lifeline"
+        },
+        {
+          "name": "Lightswind",
+          "url": "https://lightswind.com/",
+          "note": "Tailwind components featuring lighting and glows.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Liqui Design",
+          "url": "https://liqui.design",
+          "note": "Liquid-glass React components that truly refract what's behind them, installed through the shadcn CLI.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/liqui-design"
+        },
+        {
+          "name": "loading.dev",
+          "url": "https://loading.dev/",
+          "note": "Lightweight library of loading indicators for React.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Magic UI",
+          "url": "https://magicui.design/",
+          "note": "Animated components crafted for landing pages.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Maily",
+          "url": "https://maily.to",
+          "note": "A block-based WYSIWYG email editor that exports HTML compatible with React Email.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/maily"
+        },
+        {
+          "name": "mapcn",
+          "url": "https://www.mapcn.dev",
+          "note": "Beautiful shadcn-style map components on MapLibre — maps that finally look good by default.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/mapcn"
+        },
+        {
+          "name": "mdxcn",
+          "url": "https://www.mdxcn.dev",
+          "note": "Callouts, steps, timelines, tables and charts for MDX docs, all drawn in plain-text characters.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/mdxcn"
+        },
+        {
+          "name": "Memphi UI",
+          "url": "https://www.memphi.dev",
+          "note": "Memphis-style meets neobrutalism — squiggles, clashing color and playful, bold components.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/memphi-ui"
+        },
+        {
+          "name": "Meraki UI",
+          "url": "https://merakiui.com/",
+          "note": "Tailwind components with right-to-left language support.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Motion Primitives",
+          "url": "https://motion-primitives.com/",
+          "note": "Restrained motion building blocks for product UIs — text effects, border trails, a magnifier and an infinite slider.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/motion-primitives"
+        },
+        {
+          "name": "neobrutalism components",
+          "url": "https://www.neobrutalism.dev",
+          "note": "Bold neobrutalist components — thick borders, hard shadows, loud color — on top of shadcn/ui.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/neobrutalism"
+        },
+        {
+          "name": "NeonBlade UI",
+          "url": "https://neonbladeui.neuronrush.com",
+          "note": "Neon cyberpunk React components with a CLI — built for game and Web3 pages.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/neonblade-ui"
+        },
+        {
+          "name": "Nex UI",
+          "url": "https://nexui.dev/",
+          "note": "Extensible component library for modern startups.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Nexvyn UI",
+          "url": "https://ui.nexvyn.dev/",
+          "note": "Polished drop-in components for digital interfaces.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Ninja UI",
+          "url": "https://ninna-ui.dev/",
+          "note": "Lightweight UI components for fast websites.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "NumberFlow",
+          "url": "https://number-flow.barvian.me/",
+          "note": "Smooth number transitions across modern frameworks.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "ObsidianUI",
+          "url": "https://www.obsidianui.dev",
+          "note": "Dark, premium-feeling React and Tailwind components, blocks and landing-page templates.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/obsidianui"
+        },
+        {
+          "name": "Odyssey UI",
+          "url": "https://www.odysseyui.com/",
+          "note": "Animated React components built on shadcn.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "ogimagecn",
+          "url": "https://www.ogimagecn.com/",
+          "note": "Open Graph image components using Satori.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Oneko",
+          "url": "https://oneko.dhrv.pw/",
+          "note": "Pixel cat companion that chases cursor.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Open Props UI",
+          "url": "https://open-props-ui.netlify.app",
+          "note": "Pure-CSS components that lean on the newest HTML and CSS features — usable in any project.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/open-props-ui"
+        },
+        {
+          "name": "OpenAI ChatKit",
+          "url": "https://openai.github.io/chatkit-js",
+          "note": "OpenAI's embeddable chat component with the ChatGPT interaction, themable down to color, radius, density and font.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/openai-chatkit"
+        },
+        {
+          "name": "Opensource UI",
+          "url": "https://opensourceui.in/",
+          "note": "Copy-paste React UI and device mockups.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Painterly",
+          "url": "https://painterly.design-tools.workers.dev/",
+          "note": "Artistic canvas loader components for React.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "pdfcn",
+          "url": "https://pdfcn.dev/",
+          "note": "Lay out PDFs with React components — invoices, reports and résumés — installed the shadcn way.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/pdfcn"
+        },
+        {
+          "name": "Pin UI",
+          "url": "https://www.pinui.xyz/",
+          "note": "Distinctive copy-paste React and Tailwind components.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Pipecat Voice UI Kit",
+          "url": "https://voiceuikit.pipecat.ai",
+          "note": "UI for voice AI apps — connect buttons, volume, device pickers, transcripts, a dial pad and audio visualizers.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/pipecat-voice-ui-kit"
+        },
+        {
+          "name": "player.style",
+          "url": "https://player.style",
+          "note": "Themes for audio and video players from Mux — YouTube, Netflix and Winamp looks built on Media Chrome.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/player-style"
+        },
+        {
+          "name": "Preline UI",
+          "url": "https://preline.co/",
+          "note": "Tailwind components and polished full templates — dashboards, AI chat, SaaS sites — with dark mode built in.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/preline"
+        },
+        {
+          "name": "Prompt Kit",
+          "url": "https://www.prompt-kit.com/",
+          "note": "Building blocks for AI chat apps with a restrained, Vercel-like feel — including full chat blocks.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/prompt-kit"
+        },
+        {
+          "name": "Radix",
+          "url": "https://www.radix-ui.com/",
+          "note": "Accessible unstyled UI primitives for React.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Rare UI",
+          "url": "https://rareui.com/",
+          "note": "Motion components you won't find elsewhere — a fluid orb, gravity letters, a folder and a duration picker.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/rare-ui"
+        },
+        {
+          "name": "Re UI",
+          "url": "https://reui.io/",
+          "note": "Over a thousand shadcn components and app blocks — data grids, Gantt, kanban, calendars and flows — on Radix or Base UI.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/reui"
+        },
+        {
+          "name": "React Bits",
+          "url": "https://reactbits.dev/",
+          "note": "The largest open collection of animated React components — text, interactions, UI and backgrounds, each with live controls.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/react-bits"
+        },
+        {
+          "name": "React Email",
+          "url": "https://react.email",
+          "note": "Resend's components for building emails in React — with templates that feel like Linear's and Vercel's.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/react-email"
+        },
+        {
+          "name": "React Flow UI",
+          "url": "https://reactflow.dev/ui",
+          "note": "Official shadcn-style node components for React Flow — base nodes, status indicators, toolbars and an AI workflow editor.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/react-flow-ui"
+        },
+        {
+          "name": "React Glaze",
+          "url": "https://react-glaze.app",
+          "note": "True-refraction liquid glass containers and morphing menus for React, with springy motion.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/react-glaze"
+        },
+        {
+          "name": "Reverse UI",
+          "url": "https://reverseui.com/",
+          "note": "Tailwind and React component library.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "RewampUI",
+          "url": "https://www.rewampui.com/",
+          "note": "Component showcase dashboard of ready-made UI.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Rolling Number",
+          "url": "https://rolling.kitlangton.dev/",
+          "note": "Smooth digit-rolling number counter for React.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Rosen Charts",
+          "url": "https://rosencharts.com",
+          "note": "Copy-paste charts built with D3 and Tailwind, ready for React Server Components, with carefully chosen palettes.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/rosen-charts"
+        },
+        {
+          "name": "Ruru UI",
+          "url": "https://ui.ruru.build/",
+          "note": "Accessible customizable UI components for React.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Scritto",
+          "url": "https://scrit.to/",
+          "note": "Rolling character text transition component library.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "sensory-ui",
+          "url": "https://www.sensory-ui.com/",
+          "note": "Sound design system for shadcn/ui components.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Sera UI",
+          "url": "https://seraui.com/",
+          "note": "React components designed for shadcn CLI.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Shadcn Form Builder",
+          "url": "https://www.shadcn-form.com",
+          "note": "Build forms visually and get shadcn, React Hook Form and Zod code, plus extra fields like phone and tag inputs.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/shadcn-form-builder"
+        },
+        {
+          "name": "Shadcn Labs",
+          "url": "https://www.shadcn-labs.com/",
+          "note": "Open-source shadcn/ui component registries and tools ecosystem.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Shadcn Studio",
+          "url": "https://shadcnstudio.com/",
+          "note": "shadcn/ui components, blocks, and templates.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "shadcn-cssinjs",
+          "url": "https://www.shadcn-cssinjs.com/",
+          "note": "shadcn components adapted for CSS-in-JS.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "shadcn/ui",
+          "url": "https://ui.shadcn.com/",
+          "note": "Copy-in React components you own outright — the default starting point for most modern Tailwind apps.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/shadcn-ui"
+        },
+        {
+          "name": "shadcnblocks",
+          "url": "https://www.shadcnblocks.com/",
+          "note": "The largest library of shadcn blocks and marketing templates — 1,600+ blocks, for Next.js and Astro.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/shadcnblocks"
+        },
+        {
+          "name": "shieldcn",
+          "url": "https://shieldcn.dev/",
+          "note": "README badges styled with shadcn aesthetics.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Shoogle",
+          "url": "https://shoogle.dev/",
+          "note": "Search engine spanning shadcn component registries.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Sileo",
+          "url": "https://sileo.aaryan.design",
+          "note": "Toasts with strong character — SVG morphing and spring physics make them unfold like a droplet.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/sileo"
+        },
+        {
+          "name": "Silk",
+          "url": "https://silkhq.com",
+          "note": "Native-feeling swipeable sheets for the web — drawers, card stacks, long pages and galleries with iOS-like physics.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/silk"
+        },
+        {
+          "name": "Simple AI",
+          "url": "https://www.simple-ai.dev",
+          "note": "Components for AI apps plus full agent examples — chat inputs, sidebar and popup chats, and workflow nodes.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/simple-ai"
+        },
+        {
+          "name": "Sketchbook UI",
+          "url": "https://sarthakrawat-1.github.io/sketchbook-ui/",
+          "note": "React components that look hand-drawn in a sketchbook — pencil outlines, marker highlights, handwritten type.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/sketchbook-ui"
+        },
+        {
+          "name": "Sketchcn",
+          "url": "https://sketchcn.chuwii.com",
+          "note": "Hand-drawn shadcn components powered by rough.js, installed straight from the shadcn CLI.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/sketchcn"
+        },
+        {
+          "name": "Skiper UI",
+          "url": "https://skiper-ui.com/",
+          "note": "Unusual shadcn motion components — bold scroll, image, text and transition effects with an experimental streak.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/skiper-ui"
+        },
+        {
+          "name": "Smooth UI",
+          "url": "https://smoothui.dev/",
+          "note": "Animated React components with real craft in the motion — dynamic islands, number flips, card stacks.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/smoothui"
+        },
+        {
+          "name": "Sona UI",
+          "url": "https://www.sonaui.com/",
+          "note": "Animated React components you fully own.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Sonner",
+          "url": "https://sonner.emilkowal.ski",
+          "note": "Emil Kowalski's toast component, whose stacking interaction became the standard — shadcn's toast uses it.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/sonner"
+        },
+        {
+          "name": "soundcn",
+          "url": "https://soundcn.xyz/",
+          "note": "Collection of copy-paste UI sound effects.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Spectrum UI",
+          "url": "https://ui.spectrumhq.in/",
+          "note": "Polished components designed for SaaS websites.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Spell UI",
+          "url": "https://spell.sh/",
+          "note": "Finely tuned components for design engineers — signature writing, exploding inputs, light rays and a perspective book.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/spell-ui"
+        },
+        {
+          "name": "SRCL",
+          "url": "https://www.sacred.computer/",
+          "note": "Retro DOS-style terminal component kit.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "startercn",
+          "url": "https://startercn.vercel.app/",
+          "note": "shadcn/ui registry template with docs, landing page, and agent support.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Streamdown",
+          "url": "https://streamdown.ai",
+          "note": "Vercel's streaming Markdown renderer that keeps AI replies from breaking mid-stream — with code, math and Mermaid.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/streamdown"
+        },
+        {
+          "name": "Supabase UI Library",
+          "url": "https://supabase.com/ui",
+          "note": "Supabase's own components and starter apps — auth, realtime cursors, avatars — installed via the shadcn CLI.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/supabase-ui"
+        },
+        {
+          "name": "Syntax UI",
+          "url": "https://syntaxui.com/",
+          "note": "Animated copy-paste components for landing pages.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "tablecn",
+          "url": "https://tablecn.com",
+          "note": "The most complete data table for shadcn — advanced filters, sorting, views and an editable spreadsheet-style grid.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/tablecn"
+        },
+        {
+          "name": "Tailark",
+          "url": "https://tailark.com/",
+          "note": "Premium-feeling marketing blocks and app pages for shadcn/ui projects.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/tailark"
+        },
+        {
+          "name": "TailGrids",
+          "url": "https://tailgrids.com/",
+          "note": "Responsive UI blocks designed for Tailwind.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Tambo UI",
+          "url": "https://ui.tambo.co",
+          "note": "Generative UI components — the AI renders forms, charts and maps right in the chat, with threads, inputs and controls.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/tambo-ui"
+        },
+        {
+          "name": "termcn",
+          "url": "https://termcn.dev/",
+          "note": "Terminal UI components for React, built on Ink and OpenTUI.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Tiptap Notion-like",
+          "url": "https://tiptap.dev/docs/ui-components/templates/notion-like-editor",
+          "note": "Tiptap's complete Notion-like editor template — blocks, drag and drop, collaboration and AI.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/tiptap-notion-like"
+        },
+        {
+          "name": "Transitions",
+          "url": "https://transitions.dev/",
+          "note": "Production-grade UI transitions from a design engineer, ready to copy as CSS or React.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/transitions-dev"
+        },
+        {
+          "name": "Tremor",
+          "url": "https://tremor.so/",
+          "note": "Modular React library for building dashboards.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "UI Layouts",
+          "url": "https://ui-layouts.com/",
+          "note": "Full-page layouts and heroes for Tailwind.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "UI-Neumorphism",
+          "url": "https://akaspanion.github.io/ui-neumorphism/",
+          "note": "A React library for neumorphic 'soft UI' — raised and inset surfaces in a single tone.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/ui-neumorphism"
+        },
+        {
+          "name": "Uiuno",
+          "url": "https://uiuno.com/",
+          "note": "AI workspace for organizing shadcn components.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "unlumen UI",
+          "url": "https://ui.unlumen.com/",
+          "note": "Hand-polished shadcn motion primitives and components with measured, unshowy animation.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/unlumen-ui"
+        },
+        {
+          "name": "Velora UI",
+          "url": "https://velora.colorlib.com/",
+          "note": "Free Tailwind CSS components and sections.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Vengeance UI",
+          "url": "https://www.vengeanceui.com/",
+          "note": "Animated React components with scroll interactions.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Video.js 10",
+          "url": "https://videojs.org",
+          "note": "The classic video player rebuilt for v10, merging Vidstack and Media Chrome, with modern skins and React components.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/videojs"
+        },
+        {
+          "name": "warcraftcn",
+          "url": "https://warcraftcn.com",
+          "note": "Components styled after classic Warcraft III — carved wood, metal frames, parchment — via the shadcn CLI.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/warcraftcn"
+        },
+        {
+          "name": "Watermelon UI",
+          "url": "https://watermelon.sh/",
+          "note": "React component library for shadcn ecosystem.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Wired Elements",
+          "url": "https://wiredjs.com",
+          "note": "Hand-drawn, sketchy web components built on Rough.js — every render wobbles a little differently.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/wired-elements"
+        },
+        {
+          "name": "Wooden UI",
+          "url": "https://wooden-ui-react.netlify.app",
+          "note": "Skeuomorphic form controls carved from wood grain, made with nothing but CSS shadows.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/wooden-ui"
+        }
+      ]
+    },
+    "motion": {
+      "label": "Motion",
+      "count": 51,
+      "items": [
+        {
+          "name": "Amicro",
+          "url": "https://amicro.vercel.app/",
+          "note": "Micro-interactions, loaders and monochrome animated charts for the last half-second of polish.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/amicro"
+        },
+        {
+          "name": "Animata",
+          "url": "https://animata.design",
+          "note": "Animation and interaction snippets sorted by type — text, cards, backgrounds, buttons and hover effects.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/animata"
+        },
+        {
+          "name": "Animate UI",
+          "url": "https://animate-ui.com/",
+          "note": "Fully animated, shadcn-style components with smooth, restrained motion at the primitive level.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/animate-ui"
+        },
+        {
+          "name": "Arc UI",
+          "url": "https://uiarc.dev",
+          "note": "Quiet motion for the basics — buttons, dialogs and more, all moving on one shared set of motion tokens.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/arc-ui"
+        },
+        {
+          "name": "beUI",
+          "url": "https://beui.dev/",
+          "note": "Motion components such as a dynamic island, bloom menu, card folder, AI message bubbles and finance charts.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/beui"
+        },
+        {
+          "name": "Canvas UI",
+          "url": "https://canvasui.dev/",
+          "note": "Creative WebGL and WebGPU canvas effects as components, from the author of React Bits.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/canvas-ui"
+        },
+        {
+          "name": "Cult UI",
+          "url": "https://www.cult-ui.com/",
+          "note": "154 free animated components with an Apple feel — dynamic island, Mac screen, folding cards — plus AI blocks.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/cult-ui"
+        },
+        {
+          "name": "Devouring Details",
+          "url": "https://devouringdetails.com/",
+          "note": "Interactive book teaching micro-interaction design.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Easing Wizard",
+          "url": "https://easingwizard.com/",
+          "note": "Visual generator for custom CSS springs.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Eldora UI",
+          "url": "https://eldoraui.site/",
+          "note": "150+ open-source animated components and templates in the vein of Magic UI.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/eldora-ui"
+        },
+        {
+          "name": "Fancy Components",
+          "url": "https://www.fancycomponents.dev/",
+          "note": "Playful text effects and micro-interactions for React — fun without being loud.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/fancy-components"
+        },
+        {
+          "name": "glimm",
+          "url": "https://glimm.dev/",
+          "note": "Shader-driven page transitions for Next.js.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Goey Toast",
+          "url": "https://goey-toast.vercel.app",
+          "note": "Gooey, morphing toasts built on Sonner — they stretch like liquid as they pop in, merge and change state.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/goey-toast"
+        },
+        {
+          "name": "GSAP",
+          "url": "https://gsap.com/",
+          "note": "Industry-standard JavaScript timeline animation engine.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Hyperiux Vault",
+          "url": "https://vault.hyperiux.com",
+          "note": "Agency-grade interaction effects — scroll systems, cursor effects, text reveals, page transitions and loaders.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/hyperiux-vault"
+        },
+        {
+          "name": "Inspira UI",
+          "url": "https://inspira-ui.com",
+          "note": "The largest motion library for Vue and Nuxt, with many effects ported from Aceternity and Magic UI.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/inspira-ui"
+        },
+        {
+          "name": "interior.dev",
+          "url": "https://www.interior.dev/",
+          "note": "Carefully argued micro-interactions for the half-second after a click.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/interior-dev"
+        },
+        {
+          "name": "Libraries.dev",
+          "url": "https://libraries.dev/",
+          "note": "Single-effect motion packages from the maker of Transitions.dev — border beams, thinking orbs, liquid metal and gooey blobs.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/libraries-dev"
+        },
+        {
+          "name": "Lottie",
+          "url": "https://lottiefiles.com/",
+          "note": "Lightweight JSON-based vector animation format.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Luxe",
+          "url": "https://www.luxeui.com",
+          "note": "Dark, refined copy-paste components with soft light effects and smooth transitions.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/luxe"
+        },
+        {
+          "name": "morphicons",
+          "url": "https://www.morphicons.com/",
+          "note": "Smoothly morph any line icon into another with spring physics — works with Lucide, Tabler and Heroicons.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/morphicons"
+        },
+        {
+          "name": "Morphrig",
+          "url": "https://morphrig.dev/",
+          "note": "Interactive manual on how icon morphing works.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Motion",
+          "url": "https://motion.dev/",
+          "note": "Production-ready animation library for React applications.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Motion Core",
+          "url": "https://motion-core.dev",
+          "note": "High-quality motion components for Svelte — GSAP-driven interactions and OGL 3D canvases, added with a CLI.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/motion-core"
+        },
+        {
+          "name": "Motion Examples",
+          "url": "https://motion.dev/examples",
+          "note": "Motion's official gallery of 462 copyable animation snippets, filterable by React, JavaScript and Vue.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/motion-examples"
+        },
+        {
+          "name": "Motion Primitives",
+          "url": "https://motion-primitives.com/",
+          "note": "Restrained motion building blocks for product UIs — text effects, border trails, a magnifier and an infinite slider.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/motion-primitives"
+        },
+        {
+          "name": "Motiq",
+          "url": "https://motiq.dev",
+          "note": "Motion components for product UIs in four sets — AI response streams, collaboration, data and dev tools.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/motiq"
+        },
+        {
+          "name": "Neat",
+          "url": "https://neat.rebase.pro",
+          "note": "A generator for animated 3D gradient backgrounds — pick a preset, tune colors and speed, copy the code.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/neat"
+        },
+        {
+          "name": "Osmo",
+          "url": "https://www.osmo.supply",
+          "note": "A members' library from award-winning motion designers — page transitions, scroll effects and easings in plain HTML, CSS and GSAP.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/osmo"
+        },
+        {
+          "name": "Pace UI",
+          "url": "https://paceui.com",
+          "note": "Motion- and GSAP-powered blocks and templates for Next.js and TanStack Start.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/pace-ui"
+        },
+        {
+          "name": "Paper Shaders",
+          "url": "https://shaders.paper.design/",
+          "note": "Zero-dependency shaders from the Paper design tool — mesh gradients, liquid metal, halftone and dithering, tunable live.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/paper-shaders"
+        },
+        {
+          "name": "Rare UI",
+          "url": "https://rareui.com/",
+          "note": "Motion components you won't find elsewhere — a fluid orb, gravity letters, a folder and a duration picker.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/rare-ui"
+        },
+        {
+          "name": "React Bits",
+          "url": "https://reactbits.dev/",
+          "note": "The largest open collection of animated React components — text, interactions, UI and backgrounds, each with live controls.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/react-bits"
+        },
+        {
+          "name": "Rive",
+          "url": "https://rive.app/",
+          "note": "Interactive state-machine vector animation tool.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Serenity UI",
+          "url": "https://www.serenity-ui.com",
+          "note": "Playful, tactile components — a retro mechanical keyboard with live synthesized sound and a 3D flip-book portfolio.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/serenity-ui"
+        },
+        {
+          "name": "ShaderGradient",
+          "url": "https://shadergradient.co",
+          "note": "Flowing 3D gradient backgrounds you tune in the browser, then export to React, Framer or Figma.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/shadergradient"
+        },
+        {
+          "name": "Shaders",
+          "url": "https://shaders.com",
+          "note": "WebGPU shader components — gradients, fluids, noise and light — that stack like ordinary components, plus a visual editor.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/shaders"
+        },
+        {
+          "name": "Skiper UI",
+          "url": "https://skiper-ui.com/",
+          "note": "Unusual shadcn motion components — bold scroll, image, text and transition effects with an experimental streak.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/skiper-ui"
+        },
+        {
+          "name": "Smooth UI",
+          "url": "https://smoothui.dev/",
+          "note": "Animated React components with real craft in the motion — dynamic islands, number flips, card stacks.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/smoothui"
+        },
+        {
+          "name": "Spell UI",
+          "url": "https://spell.sh/",
+          "note": "Finely tuned components for design engineers — signature writing, exploding inputs, light rays and a perspective book.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/spell-ui"
+        },
+        {
+          "name": "SSGOI",
+          "url": "https://ssgoi.dev",
+          "note": "Native-app-style page transitions on the Web Animations API — works across frameworks, with no router lock-in.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/ssgoi"
+        },
+        {
+          "name": "Svelte Animations",
+          "url": "https://sv-animations.vercel.app",
+          "note": "Magic UI and Spell UI effects ported to Svelte 5.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/svelte-animations"
+        },
+        {
+          "name": "textmotion",
+          "url": "https://textmotion.dev/",
+          "note": "Zero-dependency text roll animation primitive.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Theatre.js",
+          "url": "https://www.theatrejs.com/",
+          "note": "Visual motion design sequencer for DOM.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Transitions",
+          "url": "https://transitions.dev/",
+          "note": "Production-grade UI transitions from a design engineer, ready to copy as CSS or React.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/transitions-dev"
+        },
+        {
+          "name": "UI TripleD",
+          "url": "https://ui.tripled.work",
+          "note": "Motion-powered blocks, components and full pages, each in both shadcn and Base UI versions.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/ui-tripled"
+        },
+        {
+          "name": "unlumen UI",
+          "url": "https://ui.unlumen.com/",
+          "note": "Hand-polished shadcn motion primitives and components with measured, unshowy animation.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/unlumen-ui"
+        },
+        {
+          "name": "useLayouts",
+          "url": "https://uselayouts.com",
+          "note": "Free micro-interactions that feel like small surprises — haptic buttons, a secret folder, a 3D book, split-on-scroll cards.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/uselayouts"
+        },
+        {
+          "name": "Vengeance UI",
+          "url": "https://www.vengenceui.com",
+          "note": "Motion for marketing sites — hover effects, animated tooltips, scroll-driven layouts and a pixelated image trail.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/vengeance-ui"
+        },
+        {
+          "name": "VFX-JS",
+          "url": "https://amagi.dev/vfx-js",
+          "note": "Drop WebGL effects onto plain images, videos and text — glitch, pixelate, glow and warp.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/vfx-js"
+        },
+        {
+          "name": "Vue Bits",
+          "url": "https://vue-bits.dev",
+          "note": "The official Vue port of React Bits — animated text, interactions, components and backgrounds.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/vue-bits"
+        }
+      ]
+    },
+    "design-systems": {
+      "label": "Design Systems",
+      "count": 25,
+      "items": [
+        {
+          "name": "Afterglow",
+          "url": "https://afterglow.thebuilder.dk",
+          "note": "A terminal-style CRT UI kit with eight phosphor themes, installed through the shadcn registry.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/afterglow"
+        },
+        {
+          "name": "Animal Island UI",
+          "url": "https://guokaigdg.github.io/animal-island-ui/",
+          "note": "A kawaii React component library with the rounded, cozy look of Animal Crossing.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/animal-island-ui"
+        },
+        {
+          "name": "Animal Island Vue",
+          "url": "https://guokaigdg.github.io/animal-island-vue/",
+          "note": "The Vue 3 edition of Animal Island UI — the same cozy, kawaii Animal Crossing look.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/animal-island-vue"
+        },
+        {
+          "name": "BoardUI",
+          "url": "https://www.boardui.com",
+          "note": "A dashboard-first React design system with a dozen full templates — finance, project boards, AI chat.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/boardui"
+        },
+        {
+          "name": "Dub UI",
+          "url": "https://dub.co",
+          "note": "The component package behind Dub, the link attribution platform — clean, Linear-style SaaS interface.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/dub-ui"
+        },
+        {
+          "name": "even-toolkit",
+          "url": "https://even-demo.vercel.app",
+          "note": "A design system for smart-glasses apps — dark screens, 55+ components and 191 pixel icons.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/even-toolkit"
+        },
+        {
+          "name": "Framework7",
+          "url": "https://framework7.io",
+          "note": "Build mobile web apps that look native on iOS and Android, with a huge kitchen-sink demo app.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/framework7"
+        },
+        {
+          "name": "Fuji UI",
+          "url": "https://fujiui.com",
+          "note": "Restrained, accessible React components with an optional liquid-glass material switched by one provider.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/fuji-ui"
+        },
+        {
+          "name": "Functional UI Kit",
+          "url": "https://functional-ui-kit.com",
+          "note": "React components that mirror their Figma library one-to-one — same names, same props.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/functional-ui-kit"
+        },
+        {
+          "name": "HeroUI",
+          "url": "https://www.heroui.com/",
+          "note": "Polished React components on Tailwind and React Aria, with soft surfaces and a live theme builder.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/heroui"
+        },
+        {
+          "name": "Kumo",
+          "url": "https://kumo-ui.com",
+          "note": "Cloudflare's own React component library — crisp, dense and built for dashboards.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/kumo"
+        },
+        {
+          "name": "Lobe UI",
+          "url": "https://ui.lobehub.com",
+          "note": "LobeHub's component library for AI products — chat lists, consoles and polished agent interfaces.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/lobe-ui"
+        },
+        {
+          "name": "Meta Astryx",
+          "url": "https://astryx.atmeta.com",
+          "note": "Meta's open design system on StyleX, with dozens of full-page templates and switchable themes.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/astryx"
+        },
+        {
+          "name": "Midday UI",
+          "url": "https://midday.ai",
+          "note": "The UI package of Midday, the open-source business app — black and white, minimal, typographic.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/midday-ui"
+        },
+        {
+          "name": "MUI (Material UI)",
+          "url": "https://mui.com/material-ui/",
+          "note": "Google's Material Design in React, with free full-page templates for dashboards, checkout and marketing.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/mui"
+        },
+        {
+          "name": "PaperCSS",
+          "url": "https://www.getpapercss.com",
+          "note": "The less formal CSS framework — wobbly hand-drawn borders and a paper-like feel.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/papercss"
+        },
+        {
+          "name": "Plane UI",
+          "url": "https://plane.so",
+          "note": "The UI package of Plane, the open-source alternative to Linear and Jira.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/plane-ui"
+        },
+        {
+          "name": "Polar UI",
+          "url": "https://polar.sh",
+          "note": "The component package of Polar, the open-source billing platform — dark and minimal.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/polar-ui"
+        },
+        {
+          "name": "Primer Brand",
+          "url": "https://primer.style/brand",
+          "note": "GitHub's design system for marketing pages — the building blocks behind github.com's product pages.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/primer-brand"
+        },
+        {
+          "name": "Roughness",
+          "url": "https://roughness.vercel.app",
+          "note": "A hand-drawn Vue component library built on Rough.js — a rare full set in this style for Vue.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/roughness"
+        },
+        {
+          "name": "Twenty UI",
+          "url": "https://twenty.com",
+          "note": "The UI package of Twenty, the open-source CRM — a Notion-like table-and-database interface.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/twenty-ui"
+        },
+        {
+          "name": "Unkey UI",
+          "url": "https://www.unkey.com",
+          "note": "The design system of Unkey, the API platform — dark, dotted, unmistakably developer-tool.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/unkey-ui"
+        },
+        {
+          "name": "Untitled UI React",
+          "url": "https://www.untitledui.com/react",
+          "note": "A large, carefully crafted React kit from the Untitled UI team — dashboards, settings and marketing pages included.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/untitled-ui"
+        },
+        {
+          "name": "Wedges",
+          "url": "https://www.lemonsqueezy.com/wedges",
+          "note": "Lemon Squeezy's own React components, built on Radix and Tailwind with its playful purple brand.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/wedges"
+        },
+        {
+          "name": "Welcome UI",
+          "url": "https://www.welcome-ui.com",
+          "note": "The design system of the job platform Welcome to the Jungle — friendly, bold, and very yellow.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/welcome-ui"
+        }
+      ]
+    },
+    "templates": {
+      "label": "Templates",
+      "count": 18,
+      "items": [
+        {
+          "name": "Achromatic",
+          "url": "https://www.achromatic.dev",
+          "note": "A paid SaaS starter with multi-tenancy, organizations, billing and dashboards, polished like a finished product.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/achromatic"
+        },
+        {
+          "name": "Aura",
+          "url": "https://aura.build/",
+          "note": "Meng To's AI landing-page builder with 700+ community templates, exportable as HTML, Tailwind or React.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/aura-build"
+        },
+        {
+          "name": "blocks.so",
+          "url": "https://blocks.so/",
+          "note": "Free, open-source shadcn app blocks — 60+ logins, sidebars, tables, dialogs and file uploads.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/blocks-so"
+        },
+        {
+          "name": "Circle",
+          "url": "https://circle.lndev.me",
+          "note": "An open-source, Linear-style project management UI built with shadcn/ui — clone it and make it yours.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/circle"
+        },
+        {
+          "name": "Creative Tim UI",
+          "url": "https://www.creative-tim.com/ui",
+          "note": "Hundreds of open-source shadcn/ui blocks for AI agents, admin panels, e-commerce and marketing.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/creative-tim-ui"
+        },
+        {
+          "name": "Efferd",
+          "url": "https://efferd.com",
+          "note": "Whole-section shadcn blocks — heroes, auth, app shells, dashboards and pricing — with restrained, precise typography.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/efferd"
+        },
+        {
+          "name": "Launch UI",
+          "url": "https://www.launchuicomponents.com",
+          "note": "Dark, polished landing-page components in the Linear and Vercel vein, delivered through the shadcn registry.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/launch-ui"
+        },
+        {
+          "name": "Lexington Themes",
+          "url": "https://lexingtonthemes.com",
+          "note": "An independent shop of 60+ Astro and Tailwind themes with clean, editorial typography.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/lexington-themes"
+        },
+        {
+          "name": "MakerKit",
+          "url": "https://makerkit.dev",
+          "note": "A long-running SaaS kit in Supabase, Drizzle and Prisma flavors, with a free open-source Lite edition.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/makerkit"
+        },
+        {
+          "name": "Next Shadcn Dashboard Starter",
+          "url": "https://shadcn-dashboard.kiranism.dev",
+          "note": "A popular Next.js and shadcn dashboard starter with charts, a product table, kanban and forms.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/next-shadcn-dashboard-starter"
+        },
+        {
+          "name": "Shadcn Admin",
+          "url": "https://shadcn-admin.netlify.app",
+          "note": "A shadcn admin built with Vite and TanStack Router — dashboard, tasks, chat, users, settings and more.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/shadcn-admin"
+        },
+        {
+          "name": "shadcnblocks",
+          "url": "https://www.shadcnblocks.com/",
+          "note": "The largest library of shadcn blocks and marketing templates — 1,600+ blocks, for Next.js and Astro.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/shadcnblocks"
+        },
+        {
+          "name": "Square UI",
+          "url": "https://square.lndevui.com",
+          "note": "30+ full-page shadcn layouts from the maker of Circle — dashboards, notes, maps and bookmarks, each one clickable.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/square-ui"
+        },
+        {
+          "name": "Studio Admin",
+          "url": "https://studio-admin.arhamkhnz.com",
+          "note": "A Next.js 16 and shadcn admin template with several dashboards, theme presets and switchable layouts.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/studio-admin"
+        },
+        {
+          "name": "TailAdmin",
+          "url": "https://tailadmin.com",
+          "note": "Tailwind admin templates with e-commerce, analytics and CRM dashboards, in React, Vue and Angular versions.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/tailadmin"
+        },
+        {
+          "name": "Tailark",
+          "url": "https://tailark.com/",
+          "note": "Premium-feeling marketing blocks and app pages for shadcn/ui projects.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/tailark"
+        },
+        {
+          "name": "Tailwind Plus",
+          "url": "https://tailwindcss.com/plus",
+          "note": "Tailwind Labs' official paid kit: application UI, marketing blocks and full templates like the Catalyst app.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/tailwind-plus"
+        },
+        {
+          "name": "Vercel Chatbot",
+          "url": "https://chatbot.ai-sdk.dev",
+          "note": "Vercel's official AI chat app template — ChatGPT-style conversations, attachments, history and model switching.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/vercel-chatbot"
+        }
+      ]
+    },
+    "icons": {
+      "label": "Icons",
+      "count": 40,
+      "items": [
+        {
+          "name": "3dicons",
+          "url": "https://3dicons.co",
+          "note": "1,500+ hand-made 3D icon renders, CC0 for commercial use, with Blender source files.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/3dicons"
+        },
+        {
+          "name": "AnimateIcons",
+          "url": "https://animateicons.in",
+          "note": "1,170 open-source animated icons in Lucide and Hugeicons styles, triggered on hover.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/animateicons"
+        },
+        {
+          "name": "Bootstrap Icons",
+          "url": "https://icons.getbootstrap.com/",
+          "note": "Official icon library designed for Bootstrap.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Boxicons",
+          "url": "https://boxicons.com/",
+          "note": "Vector icons crafted in three styles.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Carbon Icons",
+          "url": "https://carbondesignsystem.com/",
+          "note": "IBM official icon library for enterprise design.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Central Icons",
+          "url": "https://iconists.co/central",
+          "note": "A premium icon system of 2,000+ symbols with 30 combinations of corner, stroke and fill.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/central-icons"
+        },
+        {
+          "name": "css.gg",
+          "url": "https://css.gg/",
+          "note": "700 lightweight icons rendered using pure CSS.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Devicon",
+          "url": "https://devicon.dev/",
+          "note": "Developer-focused icon set for programming tools.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Doodle Icons",
+          "url": "https://khushmeen.com/icons.html",
+          "note": "400+ hand-drawn doodle icons, CC0 with no attribution needed, plus animated versions.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/doodle-icons"
+        },
+        {
+          "name": "Eva Icons",
+          "url": "https://akveo.github.io/eva-icons/",
+          "note": "Pack of 400 icons in outline and fill.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Feather",
+          "url": "https://feathericons.com/",
+          "note": "Minimalist open-source icon set on 24px grid.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Heroicons",
+          "url": "https://heroicons.com/",
+          "note": "Tailwind Labs' icon set — about 300 icons in outline, solid, mini and micro styles.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/heroicons"
+        },
+        {
+          "name": "Heroicons Animated",
+          "url": "https://heroicons-animated.com/",
+          "note": "316 Heroicons animated with Motion, with packages for React, Vue, Svelte and Solid.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/heroicons-animated"
+        },
+        {
+          "name": "HugeIcons",
+          "url": "https://hugeicons.com/",
+          "note": "Comprehensive library of stroke and solid icons.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Icon Foundry",
+          "url": "https://iconfoundry.store/",
+          "note": "Searchable collection of icons from many families.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Icon Museum",
+          "url": "https://icon.museum/",
+          "note": "Archive celebrating mobile app icon craftsmanship.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Iconify",
+          "url": "https://iconify.design/",
+          "note": "Unified framework providing instant icon access.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Iconoir",
+          "url": "https://iconoir.com/",
+          "note": "1,600+ minimal line icons with thin strokes and a geometric feel, completely free.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/iconoir"
+        },
+        {
+          "name": "Icons.download",
+          "url": "https://icons.download/",
+          "note": "Curated icon library in sixteen aesthetic styles.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "icons0",
+          "url": "https://icons0.dev/",
+          "note": "Search engine covering over 200k icons.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Iconsax",
+          "url": "https://app.iconsax.io/",
+          "note": "Versatile icon set with six visual styles.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Inkword",
+          "url": "https://inkword.app/",
+          "note": "Turns a single word into a matching illustration.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Ionicons",
+          "url": "https://ionic.io/ionicons/",
+          "note": "Premium icon pack for web and mobile.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Its Hover",
+          "url": "https://www.itshover.com",
+          "note": "About 200 icons that animate on hover — UI basics, brands, currencies and status.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/its-hover"
+        },
+        {
+          "name": "Lobe Icons",
+          "url": "https://icons.lobehub.com",
+          "note": "Logos for AI models and brands — OpenAI, Claude, DeepSeek and hundreds more, in color, mono and with wordmarks.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/lobe-icons"
+        },
+        {
+          "name": "Lucide",
+          "url": "https://lucide.dev/",
+          "note": "shadcn's default icon set — 1,600+ line icons forked from Feather and still growing.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/lucide"
+        },
+        {
+          "name": "Lucide Animated",
+          "url": "https://lucide-animated.com/",
+          "note": "350+ Lucide icons animated with Motion that move on hover, added one by one with shadcn.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/lucide-animated"
+        },
+        {
+          "name": "Material Symbols",
+          "url": "https://fonts.google.com/icons",
+          "note": "Google variable icon font spanning three styles.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Meteocons",
+          "url": "https://meteocons.com",
+          "note": "500+ hand-crafted animated weather icons in SVG and Lottie.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/meteocons"
+        },
+        {
+          "name": "morphicons",
+          "url": "https://www.morphicons.com/",
+          "note": "Smoothly morph any line icon into another with spring physics — works with Lucide, Tabler and Heroicons.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/morphicons"
+        },
+        {
+          "name": "MX Icons",
+          "url": "https://mx-icons.vercel.app/",
+          "note": "Large collection of customizable React icons.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Nucleo",
+          "url": "https://nucleoapp.com",
+          "note": "40,000+ premium icons with a desktop app to manage them, all in one consistent, polished style.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/nucleo"
+        },
+        {
+          "name": "Phosphor",
+          "url": "https://phosphoricons.com/",
+          "note": "9,000+ friendly icons, each in six weights from thin to fill and duotone.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/phosphor-icons"
+        },
+        {
+          "name": "Pixelarticons",
+          "url": "https://pixelarticons.com",
+          "note": "5,400+ pixel-art icons on a 24 grid in four styles, freshly redesigned.",
+          "sources": [
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/pixelarticons"
+        },
+        {
+          "name": "Reicon",
+          "url": "https://reicon.dev/",
+          "note": "A new open-source set of 2,700+ pixel-aligned icons in outline and solid.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/reicon"
+        },
+        {
+          "name": "Remix Icon",
+          "url": "https://remixicon.com/",
+          "note": "3,000+ neutral icons, each in a matching line and fill pair.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/remix-icon"
+        },
+        {
+          "name": "Rune Icons",
+          "url": "https://www.runeicons.com/",
+          "note": "Minimalist icon set offering five styles.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Simple Icons",
+          "url": "https://simpleicons.org/",
+          "note": "Over three thousand SVG brand logos.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Tabler Icons",
+          "url": "https://tabler.io/icons",
+          "note": "6,200+ free line icons on a 24 grid with a 2px stroke — one of the largest MIT icon sets.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/tabler-icons"
+        },
+        {
+          "name": "theSVG",
+          "url": "https://thesvg.org/",
+          "note": "Curated collection of clean brand SVGs.",
+          "sources": [
+            "Designeer"
+          ]
+        }
+      ]
+    },
+    "interface": {
+      "label": "Interface / Tokens / Type / Color",
+      "count": 23,
+      "items": [
+        {
+          "name": "APCA",
+          "url": "https://www.myndex.com/APCA/",
+          "note": "Modern contrast algorithm matching visual perception.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Color.review",
+          "url": "https://color.review/",
+          "note": "Contrast checker helping design accessible palettes.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Departure Mono",
+          "url": "https://departuremono.com/",
+          "note": "Pixel monospace typeface designed for terminals.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "design.dev",
+          "url": "https://design.dev/",
+          "note": "AI-assisted design token and system editor.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Figma",
+          "url": "https://figma.com/",
+          "note": "Collaborative interface design and prototyping platform.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Fontshare",
+          "url": "https://fontshare.com/",
+          "note": "High-quality professional fonts free for commercial use.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Fontsource",
+          "url": "https://fontsource.org/",
+          "note": "Self-host open-source fonts via npm packages.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Framer",
+          "url": "https://framer.com/",
+          "note": "Visual canvas designing and publishing websites.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Huetone",
+          "url": "https://huetone.ardov.me/",
+          "note": "Accessible palette generator balancing contrast ratios.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Interface Craft",
+          "url": "https://www.interfacecraft.dev/",
+          "note": "Articles exploring modern digital interface craftsmanship.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Klim",
+          "url": "https://klim.co.nz/",
+          "note": "Type foundry creating contemporary web typefaces.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Lab01",
+          "url": "https://lab01.dev/",
+          "note": "Refined UI experiments from a studio.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "make.design",
+          "url": "https://make.design/",
+          "note": "AI generator turning prompts into polished designs.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "OKLCH",
+          "url": "https://oklch.com/",
+          "note": "Color picker using perceptually uniform space.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Penpot",
+          "url": "https://penpot.app/",
+          "note": "Open-source web design platform supporting SVG.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Ramps",
+          "url": "https://www.ramps.studio/",
+          "note": "Design token tool generating OKLCH ramps.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Spline",
+          "url": "https://spline.design/",
+          "note": "Browser-based 3D design software with physics.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "UI Labs",
+          "url": "https://www.uilabs.dev/",
+          "note": "Laboratory deconstructing animated UI components.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "UI Playbook",
+          "url": "https://uiplaybook.dev/",
+          "note": "Guide to common UI component states.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "UIWTF",
+          "url": "https://uiw.tf/",
+          "note": "Showcase of experimental web interface patterns.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Utopia",
+          "url": "https://utopia.fyi/",
+          "note": "Fluid typography calculator generating CSS clamp.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Velvetyne",
+          "url": "https://velvetyne.fr/",
+          "note": "Open-source foundry distributing experimental typefaces.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Wakamai Fondue",
+          "url": "https://wakamaifondue.com/",
+          "note": "Tool inspecting font files and features.",
+          "sources": [
+            "Designeer"
+          ]
+        }
+      ]
+    },
+    "ai-agents": {
+      "label": "AI Design Tools / Agents & MCP",
+      "count": 35,
+      "items": [
+        {
+          "name": "Agentation",
+          "url": "https://www.agentation.com/",
+          "note": "Converts on-screen UI annotations into context.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "agentcn",
+          "url": "https://agentcn.run/",
+          "note": "Customizable and production-ready AI agent recipes for React.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Arc labs",
+          "url": "https://www.arclabs.space/",
+          "note": "AI career suite simulating technical interviews.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Aura",
+          "url": "https://aura.build/",
+          "note": "Meng To's AI landing-page builder with 700+ community templates, exportable as HTML, Tailwind or React.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/aura-build"
+        },
+        {
+          "name": "bb",
+          "url": "https://getbb.app/",
+          "note": "Open-source development environment for coding agents.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Capacity",
+          "url": "https://capacity.so/",
+          "note": "Natural language workspace generating full-stack apps.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Causal",
+          "url": "https://causal.so/",
+          "note": "AI canvas workspace for notes and plans.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "designmd.me",
+          "url": "https://designmd.me/",
+          "note": "Generator creating machine-readable design specifications.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "designmd.supply",
+          "url": "https://designmd.supply/",
+          "note": "DESIGN.MD templates to guide AI assistants.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Distill",
+          "url": "https://distill.id/",
+          "note": "Intelligent agent organizing scattered research notes.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Dray",
+          "url": "https://www.drayhq.com/",
+          "note": "Unified desktop workspace managing coding agents.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Efecto",
+          "url": "https://efecto.app/",
+          "note": "Agent-first visual web canvas with MCP.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Foglamp",
+          "url": "https://www.foglamp.dev/",
+          "note": "Observability tool monitoring latency and costs.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "fx",
+          "url": "https://fx.sh/",
+          "note": "High-performance coding agent CLI in Zig.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "getdesign.md",
+          "url": "https://getdesign.md/",
+          "note": "Interactive generator producing AI design rules.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Ghostex",
+          "url": "https://ghostex.dev/",
+          "note": "Orchestrates multiple background coding agent sessions.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Herdr",
+          "url": "https://herdr.dev/",
+          "note": "Distributed runner managing coding agent jobs.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Hyperbrowser Design.md",
+          "url": "https://design-md.hyperbrowser.ai/",
+          "note": "DESIGN.MD generator extracting rules from websites.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "HyperFrames",
+          "url": "https://www.hyperframes.dev/",
+          "note": "Headless HTML-to-MP4 video rendering engine.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Impeccable",
+          "url": "https://impeccable.style/",
+          "note": "Design intelligence skill for AI agents.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "integrations.sh",
+          "url": "https://integrations.sh/",
+          "note": "Repository of API integration specifications for agents.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "is-agentic.com",
+          "url": "https://is-agentic.com/",
+          "note": "Scores how effectively websites support crawlers.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Kombai",
+          "url": "https://kombai.com/",
+          "note": "AI design engineer that codes UI from context.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Lafys",
+          "url": "https://lafys.com/",
+          "note": "Prompt-driven UI component generator for builders.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "mcpcn",
+          "url": "https://mcpcn.dev/",
+          "note": "ChatGPT, Claude, and MCP app UI components for React.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Neuform",
+          "url": "https://neuform.ai/",
+          "note": "AI-assisted interface design producing clean code.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Open Design",
+          "url": "https://open-design.ai/",
+          "note": "Standardized design systems formatted for agents.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "OpenCode",
+          "url": "https://opencode.ai/",
+          "note": "Open-source terminal AI coding agent.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Refero",
+          "url": "https://styles.refero.design/",
+          "note": "Structured DESIGN.MD specifications for AI agents.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Scira",
+          "url": "https://scira.ai/",
+          "note": "Minimalist open-source AI search engine.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "skills",
+          "url": "https://www.skills.sh/shadcn-labs/skills",
+          "note": "Agent skills for shadcn registries and developer workflows.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "SkillSync",
+          "url": "https://skillsync.com/",
+          "note": "Synchronizes agent context across code editors.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Soubi",
+          "url": "https://soubi.vercel.app/",
+          "note": "Compiler transforming agent skill definitions.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "typeui.sh",
+          "url": "https://typeui.sh/",
+          "note": "Command-line tool scaffolding typed UI components.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Webclaw",
+          "url": "https://webclaw.io/",
+          "note": "Converts any webpage into structured markdown.",
+          "sources": [
+            "Designeer"
+          ]
+        }
+      ]
+    },
+    "visuals": {
+      "label": "3D / Shaders / Visuals",
+      "count": 13,
+      "items": [
+        {
+          "name": "Blender",
+          "url": "https://blender.org/",
+          "note": "Open-source 3D modeling and animation suite.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Book of Shaders",
+          "url": "https://thebookofshaders.com/",
+          "note": "Interactive guide to mastering fragment shaders.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "compute.toys",
+          "url": "https://compute.toys/",
+          "note": "Sandbox for authoring WGSL compute shaders.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Drei",
+          "url": "https://drei.docs.pmnd.rs/",
+          "note": "Helper components for React Three Fiber.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "gltf.report",
+          "url": "https://gltf.report/",
+          "note": "Web-based optimizer for 3D glTF files.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "OpenShaders",
+          "url": "https://openshaders.com/",
+          "note": "Open-source shader collection for web projects.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Orbkit",
+          "url": "https://orbkit.zzzzshawn.cloud/",
+          "note": "WebGL shader renderer for orb animations.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Paper Shaders",
+          "url": "https://shaders.paper.design/",
+          "note": "Zero-dependency shaders from the Paper design tool — mesh gradients, liquid metal, halftone and dithering, tunable live.",
+          "sources": [
+            "Designeer",
+            "UINice"
+          ],
+          "uinice": "https://uinice.com/site/paper-shaders"
+        },
+        {
+          "name": "Poly Haven",
+          "url": "https://polyhaven.com/",
+          "note": "Public asset library offering CC0 textures.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "React Three Fiber",
+          "url": "https://r3f.docs.pmnd.rs/",
+          "note": "Declarative React renderer for Three.js scenes.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "shadercn",
+          "url": "https://shadercn.run/",
+          "note": "Shader components for React, built on vgpu and TypeGPU.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Shaderfrog",
+          "url": "https://shaderfrog.com/",
+          "note": "Visual node-based editor for composing shaders.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Three.js",
+          "url": "https://threejs.org/",
+          "note": "JavaScript 3D library rendering WebGL scenes.",
+          "sources": [
+            "Designeer"
+          ]
+        }
+      ]
+    },
+    "development": {
+      "label": "Development / Deploy",
+      "count": 29,
+      "items": [
+        {
+          "name": "@web-kits/audio",
+          "url": "https://audio.raphaelsalaja.com/",
+          "note": "Declarative sound library for web apps.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "AI Stack",
+          "url": "https://github.com/alp82/aistack",
+          "note": "Directory comparing modern AI tech stacks.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Alumnium",
+          "url": "https://alumnium.ai/",
+          "note": "Natural-language end-to-end testing via MCP.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Better T Stack",
+          "url": "https://www.better-t-stack.dev/",
+          "note": "CLI scaffolding modern full-stack TypeScript setups.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Biome",
+          "url": "https://biomejs.dev/",
+          "note": "Fast Rust-based formatter and code linter.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Bolt.new",
+          "url": "https://bolt.new/",
+          "note": "In-browser development sandbox for full-stack applications.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "BuilderTools",
+          "url": "https://www.buildertools.sh/",
+          "note": "Focused developer tools for shipping software.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Claude Code",
+          "url": "https://claude.com/claude-code",
+          "note": "Agentic coding tool inside your terminal.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Cloudflare",
+          "url": "https://developers.cloudflare.com/workers/",
+          "note": "Global edge network running serverless Workers.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Cursor",
+          "url": "https://cursor.com/",
+          "note": "AI-first code editor for rapid development.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "DialKit",
+          "url": "https://www.dialkit.dev/",
+          "note": "Floating interface toolbar for parameter tuning.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "evlog",
+          "url": "https://www.evlog.dev/",
+          "note": "Structured logging framework for web applications.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Fly.io",
+          "url": "https://fly.io/",
+          "note": "Runs Docker containers close to users.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Netlify",
+          "url": "https://netlify.com/",
+          "note": "Web platform providing continuous deployment pipelines.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Nue",
+          "url": "https://nuejs.org/",
+          "note": "Lightweight web framework alternative to React.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "nuqs",
+          "url": "https://nuqs.47ng.com/",
+          "note": "Type-safe URL search params for React.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "OSS Perks",
+          "url": "https://ossperks.com/",
+          "note": "Free cloud credits for open-source maintainers.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Playwright",
+          "url": "https://playwright.dev/",
+          "note": "Reliable browser automation and end-to-end testing.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Railway",
+          "url": "https://railway.app/",
+          "note": "Simplified infrastructure platform for deploying databases.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Torph",
+          "url": "https://torph.lochie.me/",
+          "note": "Dependency-free text morphing animation library.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Tracwell",
+          "url": "https://tracwell.app/",
+          "note": "Focused analytics tracking visitors and conversions.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Umami",
+          "url": "https://umami.is/",
+          "note": "Privacy-focused web analytics without cookie banners.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "v0",
+          "url": "https://v0.app/",
+          "note": "Generative AI translating prompts into shadcn code.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Vercel",
+          "url": "https://vercel.com/",
+          "note": "Cloud platform for deploying Next.js applications.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Vercel Doctor",
+          "url": "https://vercel-doctor.com/",
+          "note": "Diagnostic tool identifying Next.js performance bottlenecks.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Vinext",
+          "url": "https://vinext.dev/",
+          "note": "Vite plugin running Next.js on Cloudflare.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Vite",
+          "url": "https://vite.dev/",
+          "note": "Blazing fast frontend build and dev tool.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "x.ai/bot",
+          "url": "https://x.ai/bot",
+          "note": "Documentation detailing xAI web crawler specifications.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Zed",
+          "url": "https://zed.dev/",
+          "note": "High-performance code editor built for low latency.",
+          "sources": [
+            "Designeer"
+          ]
+        }
+      ]
+    },
+    "utilities": {
+      "label": "Utilities / Desktop / Capture",
+      "count": 61,
+      "items": [
+        {
+          "name": "Anim8",
+          "url": "https://www.tryanim8.com/",
+          "note": "Convert MP4 recordings into animated SVG graphics.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "ASCII (Kracked Devs)",
+          "url": "https://ascii.krackeddevs.com/",
+          "note": "Fast tool converting text into ASCII art.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "ASCII Studio",
+          "url": "https://www.asciistudio.space/",
+          "note": "Transforms images and videos into ASCII art.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "ASCIInator",
+          "url": "https://asciinator.app/",
+          "note": "Browser utility converting images into ASCII art.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "BetterShot",
+          "url": "https://www.bettershot.site/",
+          "note": "Screen recorder featuring cursor zoom and captions.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Butterfly",
+          "url": "https://www.butterfly.so/",
+          "note": "Minimalist landing page builder for validation.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Canario",
+          "url": "https://rioterm.com/canario",
+          "note": "Terminal organizing CLI sessions into panes.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "CleanShot X",
+          "url": "https://cleanshot.com/",
+          "note": "Ultimate screen capture and recording utility.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "CoolDock",
+          "url": "https://cooldock.app/",
+          "note": "Secondary dock supporting desktop monitoring widgets.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Corne",
+          "url": "https://corne.rs/",
+          "note": "Documentation for the Corne split keyboard.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Cursorful",
+          "url": "https://cursorful.com/",
+          "note": "Screen recorder that automatically tracks cursor.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "DaVinci Resolve",
+          "url": "https://www.blackmagicdesign.com/products/davinciresolve",
+          "note": "Professional video editing and color grading suite.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Descript",
+          "url": "https://descript.com/",
+          "note": "AI video editor where you edit text.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Design Minis",
+          "url": "https://www.designminis.com/",
+          "note": "Suite of micro design tools and scales.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Dither Lab",
+          "url": "https://literate-enigma-snowy.vercel.app/",
+          "note": "Applies vintage dithering filters to photographs.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "DotForge",
+          "url": "https://dotforge.vercel.app/",
+          "note": "Real-time dither effect generator for web.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Drawably",
+          "url": "https://www.drawably.dev/",
+          "note": "Sketching tool generating hand-drawn UI shapes.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Excalidraw",
+          "url": "https://excalidraw.com/",
+          "note": "Collaborative whiteboard with hand-drawn sketch aesthetic.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Fffuel",
+          "url": "https://fffuel.co/",
+          "note": "Generative SVG textures, gradients, and patterns.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Ghostty",
+          "url": "https://ghostty.org/",
+          "note": "Fast GPU-accelerated terminal emulator for developers.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Gifski",
+          "url": "https://gif.ski/",
+          "note": "High-quality video-to-GIF converter preserving framerates.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Granola",
+          "url": "https://granola.ai/",
+          "note": "AI notepad generating meeting summaries without bots.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Hallmark",
+          "url": "https://www.usehallmark.com/",
+          "note": "Landing page builder producing handcrafted designs.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Icoon",
+          "url": "https://icoon.co/",
+          "note": "AI tool generating custom 3D icons.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Linear",
+          "url": "https://linear.app/",
+          "note": "Project management software setting speed standards.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "LocalSend",
+          "url": "https://localsend.org/",
+          "note": "Share files securely across local Wi-Fi networks.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Mascofast",
+          "url": "https://mascofast.com/",
+          "note": "AI tool generating animated transparent 3D mascots.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Mesurer",
+          "url": "https://mesurer.dev/",
+          "note": "On-screen tool checking website pixel spacing.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Obsidian",
+          "url": "https://obsidian.md/",
+          "note": "Local-first Markdown knowledge base with graphs.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "OGFolio",
+          "url": "https://www.ogfolio.com/",
+          "note": "Inspect and preview Open Graph social cards.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Open Source Together",
+          "url": "https://opensource-together.com/",
+          "note": "Platform matching developers with open-source projects.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Playgrnd",
+          "url": "https://www.playgrnd.tools/",
+          "note": "Suite of browser-based offline creative tools.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "PostSpark",
+          "url": "https://postspark.app/",
+          "note": "Format screenshots with clean social backgrounds.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Ray.so",
+          "url": "https://ray.so/",
+          "note": "Turn code snippets into shareable screenshots.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Raycast",
+          "url": "https://raycast.com/",
+          "note": "Extendable desktop launcher replacing Spotlight.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Recordly",
+          "url": "https://recordly.dev/",
+          "note": "Screen recording tool for polished developer demos.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "RegExr",
+          "url": "https://regexr.com/",
+          "note": "Interactive sandbox for testing regular expressions.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Remocn",
+          "url": "https://www.remocn.dev/",
+          "note": "Remotion animation components for video production.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Remotion",
+          "url": "https://remotion.dev/",
+          "note": "Render high-definition videos programmatically with React.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Render Labs",
+          "url": "https://render-labs.evlog.cloud/",
+          "note": "Image rendering tool from evlog team.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Replay",
+          "url": "https://letsreplay.co/",
+          "note": "Session replay and visitor recording for websites.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Revone",
+          "url": "https://revone.app/",
+          "note": "Unified revenue dashboard aggregating payment metrics.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Runey",
+          "url": "https://runey.app/",
+          "note": "Invoicing and client tracking app for freelancers.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Rynix Studio",
+          "url": "https://studio.rynix.in/edit",
+          "note": "Playground for real-time video visual effects.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Screan",
+          "url": "https://screan.app/",
+          "note": "Create promotional App Store screenshot mockups.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Screen Studio",
+          "url": "https://screen.studio/",
+          "note": "Screen recorder adding camera zooms automatically.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Screenshot Studio",
+          "url": "https://www.screenshot-studio.com/",
+          "note": "Frames screenshots inside realistic 3D mockups.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Shiori",
+          "url": "https://www.shiori.sh/",
+          "note": "Bookmark manager with CLI and Raycast support.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Slant It",
+          "url": "https://slantit.app/",
+          "note": "Transforms flat captures into 3D mockups.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Squoosh",
+          "url": "https://squoosh.app/",
+          "note": "Browser image compression with visual comparisons.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Supaste",
+          "url": "https://supaste.com/",
+          "note": "Clipboard manager and screenshot history for Mac.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "SVGOMG",
+          "url": "https://svgomg.net/",
+          "note": "Web GUI to optimize and clean SVG files.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Tabbied",
+          "url": "https://tabbied.com/",
+          "note": "Generative geometric pattern creator for SVG.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "tldraw",
+          "url": "https://tldraw.com/",
+          "note": "Infinite whiteboard library offering React SDK.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Tokokino",
+          "url": "https://tokokino.com/",
+          "note": "In-browser editor for device framing and mockups.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Tooooools",
+          "url": "https://www.tooooools.app/",
+          "note": "In-browser utilities to dither and pixelate images.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Transform",
+          "url": "https://transform.tools/",
+          "note": "Polyglot code converter for JSON and types.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "ui.camera",
+          "url": "https://ui.camera/",
+          "note": "3D mockups and scene staging for software.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Vessa",
+          "url": "https://vessa.design/",
+          "note": "Publish brand guidelines as live pages.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Warp",
+          "url": "https://warp.dev/",
+          "note": "Rust-based terminal with block outputs and AI.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Zen Browser",
+          "url": "https://zen-browser.app/",
+          "note": "Firefox fork with vertical tabs and focus.",
+          "sources": [
+            "Designeer"
+          ]
+        }
+      ]
+    },
+    "reading": {
+      "label": "Reading",
+      "count": 33,
+      "items": [
+        {
+          "name": "99designs Discover",
+          "url": "https://99designs.com/discover",
+          "note": "Design blog exploring creative branding insights.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Abduzeedo",
+          "url": "https://abduzeedo.com/",
+          "note": "Daily design blog sharing visual inspiration.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "AI for UI",
+          "url": "https://aiforui.dev/",
+          "note": "Course teaching AI workflows for interfaces.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Animations.dev",
+          "url": "https://www.animations.dev/",
+          "note": "Course on creating web animations that feel right.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Boxes and Arrows",
+          "url": "https://boxesandarrows.com/",
+          "note": "Journal dedicated to information architecture craft.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Codrops",
+          "url": "https://tympanus.net/codrops/",
+          "note": "Blog publishing creative frontend experiments and tutorials.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Degreeless Design",
+          "url": "https://www.degreeless.design/",
+          "note": "Curated roadmap for mastering product design.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Design Books",
+          "url": "https://design-books.com/",
+          "note": "Directory of essential design literature by discipline.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Design Spells",
+          "url": "https://designspells.com/",
+          "note": "Dissecting subtle design details in software.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Design System Checklist",
+          "url": "https://designsystemchecklist.com/",
+          "note": "Comprehensive checklist for production design systems.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Designer News",
+          "url": "https://www.designernews.co/",
+          "note": "Community-driven news feed highlighting design stories.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Designmodo",
+          "url": "https://designmodo.com/",
+          "note": "Articles and tools covering web design.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Good UI",
+          "url": "https://goodui.org/",
+          "note": "Evidence-based UI design patterns and data.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Inclusive Components",
+          "url": "https://inclusive-components.design/",
+          "note": "Pattern library teaching accessible component design.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Interfaces",
+          "url": "https://interfaces.dev/",
+          "note": "Monthly digital publication exploring digital interfaces.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Josh Comeau",
+          "url": "https://joshwcomeau.com/",
+          "note": "Interactive tutorials breaking down CSS mechanics.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Laws of UX",
+          "url": "https://lawsofux.com/",
+          "note": "Psychological principles that influence interface usability.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Learn Kernels",
+          "url": "https://learn-kernels.com/",
+          "note": "Interactive guide exploring GPU kernel programming.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Learn UI",
+          "url": "https://learn-ui.com/",
+          "note": "Video course teaching practical user interface design.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Making Software",
+          "url": "https://www.makingsoftware.com/",
+          "note": "Essays examining how tools shape design.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Muzli",
+          "url": "https://muz.li/",
+          "note": "Daily digest curating latest design trends.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Practical Typography",
+          "url": "https://practicaltypography.com/",
+          "note": "Essential book covering typographic rules and layout.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Refactoring UI",
+          "url": "https://refactoringui.com/",
+          "note": "Practical design guide for building interfaces.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Smashing Magazine",
+          "url": "https://www.smashingmagazine.com/",
+          "note": "Reliable resource for web designers and developers.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "SVG Guide",
+          "url": "https://www.svg.guide/",
+          "note": "Guide to mastering SVG markup and animations.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "The Shape of AI",
+          "url": "https://www.shapeof.ai/",
+          "note": "Pattern library highlighting AI interface design.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "UI Land",
+          "url": "https://ui.land/",
+          "note": "Interviews with leading design engineers on craft.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "UI Skills",
+          "url": "https://ui-skills.com/",
+          "note": "Course teaching techniques for designing with AI.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "User Interface Wiki",
+          "url": "https://userinterface.wiki/",
+          "note": "Knowledge base documenting interface guidelines and rules.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "UX Collective",
+          "url": "https://uxdesign.cc/",
+          "note": "Curated publication sharing critical UX essays.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Visual Rambling",
+          "url": "https://visualrambling.space/",
+          "note": "Personal visual essays exploring interface design.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "Web Designer Depot",
+          "url": "https://www.webdesignerdepot.com/",
+          "note": "Design publication covering web standards and tools.",
+          "sources": [
+            "Designeer"
+          ]
+        },
+        {
+          "name": "web.dev",
+          "url": "https://web.dev/",
+          "note": "Guidance on web performance and modern standards.",
+          "sources": [
+            "Designeer"
+          ]
+        }
+      ]
+    }
+  }
+}
